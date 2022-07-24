@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📱 I love developing apps and learning **Flutter**🌱
 - 💻 I love creating systems based on blockchain technology.
 - 📉 I love trading and cryptocurrencies
-- 📫 How to reach me: **[Telegram](https://t.me/roimerperaza)** or **[Linkedin](https://www.linkedin.com/in/roimerperaza/)**
+- 📫 How to reach me: **[Telegram](https://t.me/joisephdev)** or **[Linkedin](https://www.linkedin.com/in/roimerperaza/)**
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=joisephdev&show_icons=true&hide=issues,contribs)
