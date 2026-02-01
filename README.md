@@ -1,46 +1,78 @@
-<!--
-**joisephdev/joisephdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Roimer Peraza</h1>
+<h3 align="center">Software Developer | AI Tooling Enthusiast | Clean Architecture Advocate</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/synapsync_labs" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/joisephdev?logo=twitter&style=for-the-badge" alt="joisephdev" />
+  </a>
+  <a href="https://linkedin.com/in/roimerperaza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://t.me/joisephdev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram" alt="telegram" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## About Me
 
-<h1>Hi 👋, I'm Roimer Peraza</h1>
+I'm a full-stack developer passionate about building scalable, well-architected software. My focus is on creating tools and systems that standardize and simplify complex workflows, with a particular interest in AI orchestration and developer tooling.
 
-<p align="left"> <a href="https://twitter.com/joisephdev" target="blank"><img src="https://img.shields.io/twitter/follow/joisephdev?logo=twitter&style=for-the-badge" alt="joisephdev" /></a> </p>
+- 🔭 **Currently building:** [SynapSync](https://github.com/joisephdev) — An AI orchestration platform that standardizes AI capabilities across multiple providers (Claude, Gemini, OpenAI), similar to how Docker standardized containers.
+- 🏗️ **Architecture:** Strong advocate for Clean Architecture, facade patterns, and modular code organization in monorepo environments.
+- 📱 **Mobile & Web:** Building modern Angular applications with signals, standalone components, and reactive patterns. Also experienced with Flutter for cross-platform development.
+- ⛓️ **Blockchain:** Passionate about decentralized applications and blockchain-based systems.
 
-- 💬 I’m a full stack developer. 
-- ⚡ I love developing dApps.
-- 📱 I love developing apps and learning **Flutter**🌱
-- 💻 I love creating systems based on blockchain technology.
-- 📫 How to reach me: **[Telegram](https://t.me/joisephdev)** or **[Linkedin](https://www.linkedin.com/in/roimerperaza/)**
+---
 
+## Current Projects
 
-![github stats](https://github-readme-stats.vercel.app/api?username=joisephdev&show_icons=true&hide=issues,contribs)
+### 🧠 SynapSync
+An AI orchestration ecosystem with three main components:
+- **CLI Tools** — Command-line interfaces for AI workflow management
+- **Codex** — A knowledge repository for AI capabilities
+- **Registry** — Versioned distribution system for "intelligence packages" (paquetes de inteligencia)
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Developer Tools
+Building custom skills and CLI tools for:
+- Task planning and project management
+- Code analysis and dead code detection
+- Automated execution pipelines
+
+---
+
+## Tech Stack
+
 <p align="left">
-<a href="https://twitter.com/joisephdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joisephdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roimerperaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deven-roimerperaza" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-<a rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-<!-- <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> </a> -->
-</p>
+**Frameworks & Tools:**
+- Angular (Signals, Standalone Components, RxJS)
+- Nx Monorepo
+- Flutter / Dart
+- Node.js / Express
+- AI SDKs (Claude, Gemini, OpenAI)
+
+**Practices:**
+- Clean Architecture
+- Facade Pattern
+- SOLID Principles
+- Modular Design
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing AI tooling, software architecture, and innovative development approaches.
+
+- 💬 **Telegram:** [@joisephdev](https://t.me/joisephdev)
+- 💼 **LinkedIn:** [roimerperaza](https://www.linkedin.com/in/roimerperaza/)
+- 🐦 **X:** [@joisephdev](https://twitter.com/synapsync_labs)
